@@ -68,6 +68,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background: transparent;
+  z-index: 2;
 }
 
 html {
@@ -113,9 +115,15 @@ img {
   height: auto;
 }
 
+/*=============== particle js ===============*/
+.particle canvas{
+  z-index: 0;
+}
+
 /*=============== REUSABLE CSS CLASSES ===============*/
 .section {
   padding: 6rem 0 2rem;
+  /* z-index: -1; */
 }
 
 .section__title {

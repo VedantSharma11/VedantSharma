@@ -1,6 +1,7 @@
 .footer {
   background-color: var(--container-color);
   border-top: 1px solid Orgba(0, 0, 0, 0.1);
+  position: relative;
 }
 .footer__container {
   padding: 2rem 06rem;

@@ -9,13 +9,15 @@ import Work from './components/work/Work'
 import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
 import ScrollUp from './components/scrollup/Scrollup'
-
+import Particle from './components/Particle'
 
 function App() {
+
   return (
     <>
+      <Particle/>
       <Header/>
-      <main className='main'>
+      <main className='main'> 
         <Home/>
         <About/>
         <Skills/>
@@ -30,3 +32,5 @@ function App() {
 }
 
 export default App
+
+

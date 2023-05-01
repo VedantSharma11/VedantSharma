@@ -80,6 +80,7 @@ function Contact() {
                 name="name"
                 className="contact__form-input"
                 placeholder="Insert your name"
+                required
               />
             </div>
             <div className="contact__form-div">
@@ -89,6 +90,7 @@ function Contact() {
                 name="email"
                 className="contact__form-input"
                 placeholder="Insert your email"
+                required
               />
             </div>
             <div className="contact__form-div contact__form-area">
@@ -99,6 +101,7 @@ function Contact() {
                 rows="10"
                 className="contact__form-input"
                 placeholder="Write your project"
+                required
               ></textarea>
             </div>
             <button href="#contact" className="button button--flex">
