@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/VedantSharma/static/css/main.d70a0086.css",
-    "main.js": "/VedantSharma/static/js/main.f91ad42e.js",
+    "main.css": "/VedantSharma/static/css/main.9ff5d349.css",
+    "main.js": "/VedantSharma/static/js/main.eb8da073.js",
     "static/media/vedant1.jpg": "/VedantSharma/static/media/vedant1.6f4ad727415651319f89.jpg",
     "static/media/vedant12.jpg": "/VedantSharma/static/media/vedant12.dcd0fbb5a56b04698ef4.jpg",
     "static/media/work2.jpg": "/VedantSharma/static/media/work2.e52a0c2981a6c11ba468.jpg",
@@ -10,11 +10,11 @@
     "static/media/work1.jpg": "/VedantSharma/static/media/work1.321b4ae3bf404acdfdc6.jpg",
     "static/media/work3.jpg": "/VedantSharma/static/media/work3.135e9065694bc13dc31d.jpg",
     "index.html": "/VedantSharma/index.html",
-    "main.d70a0086.css.map": "/VedantSharma/static/css/main.d70a0086.css.map",
-    "main.f91ad42e.js.map": "/VedantSharma/static/js/main.f91ad42e.js.map"
+    "main.9ff5d349.css.map": "/VedantSharma/static/css/main.9ff5d349.css.map",
+    "main.eb8da073.js.map": "/VedantSharma/static/js/main.eb8da073.js.map"
   },
   "entrypoints": [
-    "static/css/main.d70a0086.css",
-    "static/js/main.f91ad42e.js"
+    "static/css/main.9ff5d349.css",
+    "static/js/main.eb8da073.js"
   ]
 }
