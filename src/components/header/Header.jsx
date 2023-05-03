@@ -90,9 +90,10 @@ function Header() {
           ></i>
         </div>
 
-        <div className="nav__toggle" onClick={() => showMenu(!Toggle)}>
+        {!Toggle && <div className="nav__toggle" onClick={() => showMenu(!Toggle)}>
           <i className="uil uil-apps"></i>
-        </div>
+        </div>}
+
       </nav>
     </header>
   );
